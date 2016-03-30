@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user id="1">
+		<name>Maryana</name>
+		<surname>Bytsiv</surname>
+		<nickname>mary</nickname>
+	</user>
+	<user id="2">
+		<name>Bogdan</name>
+		<surname>Makar</surname>
+		<nickname>bodya</nickname>
+	</user>
+	<user id="3">
+		<name>Kyryl</name>
+		<surname>Nuklir</surname>
+		<nickname>kyr</nickname>
+	</user>
+	<user id="4">
+		<name>Vitaliy</name>
+		<surname>Melnyk</surname>
+		<nickname>vitya</nickname>
+	</user>
+	<user id="5">
+		<name>Dmytro</name>
+		<surname>Gapach</surname>
+		<nickname>dima</nickname>
+	</user>
+	<user id="6">
+		<name>Ivan</name>
+		<surname>Real</surname>
+		<nickname>real</nickname>
+	</user>
+	<user id="7">
+		<name>Mykola</name>
+		<surname>Kolomiets</surname>
+		<nickname>kolo</nickname>
+	</user>
+	<user id="8">
+		<name>Lilia</name>
+		<surname>Bavza</surname>
+		<nickname>lila</nickname>
+	</user>
+	<user id="9">
+		<name>Yura</name>
+		<surname>Klym</surname>
+		<nickname>yura</nickname>
+	</user>
+	<user id="10">
+		<name>Zahar</name>
+		<surname>Feride</surname>
+		<nickname>zahar</nickname>
+	</user>
+</users>
+
+
+
+
